@@ -1,3 +1,3 @@
 # Neural-Machine-Translation-using-Transformer
 
-## Demo <img src="output_demo.png" alt="Demo Screenshot" width="800">
+## Demo <img src="machine_translation.png" alt="Demo Screenshot" width="800">
